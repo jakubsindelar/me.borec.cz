@@ -1,0 +1,44 @@
+/* SCREEN CSS for Vejska.cz by Tomas Holy */
+
+@import url("/styles/screen/elements.css");
+@import url("/styles/screen/common.css");
+@import url("/styles/screen/domains.css");
+@import url("/styles/screen/header.css");
+@import url("/styles/screen/left.css");
+@import url("/styles/screen/right.css");
+@import url("/styles/screen/center.css");
+@import url("/styles/screen/footer.css");
+
+#leftcontent {
+  float: left; 
+  width: 157px; 
+  white-space: nowrap;
+}
+
+#rightcontent {
+  float: right;
+  width: 157px;
+}
+
+#centercontent {
+  margin: 1px 158px;
+  padding: 1px;
+}
+
+.hlavicka {
+  width: 100%;
+  background-color: #ddf2ff;
+  padding-left: 10px; 
+  padding-top: 3px;
+  padding-bottom: 3px;
+  letter-spacing: 2px;
+}
+
+.tisk-top {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* SCREEN CSS for Vejska.cz by Tomas Holy */

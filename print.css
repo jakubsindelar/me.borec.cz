@@ -1,0 +1,81 @@
+/* PRINT CSS for Vejska.cz by Tomas Holy */
+
+@import url("/styles/screen/elements.css");
+@import url("/styles/screen/common.css");
+@import url("/styles/screen/center.css");
+
+#leftcontent {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+#rightcontent {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+#centercontent {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 600px;
+}
+
+.up {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+} 
+
+.hlavicka {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* ++++++++++++++++++++++++++++ D O M A I N S +++++++++++++++++++++++++++++ */
+#domains, #domains a, #domains a.link, #domains a.hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* ++++++++++++++++++++++++++++++ H E A D E R +++++++++++++++++++++++++++ */
+#header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+.whiteText {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* ++++++++++++++++++++++++++ L E F T   C O N T E N T ++++++++++++++++++++ */
+.listaHorni {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* +++++++++++++++++++++++++++++ F O O T E R +++++++++++++++++++++++++++++ */ 
+#footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+
+/* PRINT CSS for Vejska.cz by Tomas Holy */
